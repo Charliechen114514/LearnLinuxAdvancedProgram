@@ -1,5 +1,5 @@
 #include "apue.h"
-#include <error.c>
+
 #include <dirent.h>
 int main(int argc, char* argv[])
 {
